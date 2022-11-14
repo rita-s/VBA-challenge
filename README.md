@@ -1,6 +1,6 @@
 # The VBA of Wall Street
 
-## Background
+## 📝 Project Description
 
 Stock Market Analysis: Using VBA scripting to analyse generated stock market data. 
 
