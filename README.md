@@ -17,15 +17,15 @@ Stock Market Analysis: Using VBA scripting to analyse generated stock market dat
 
 Creating a script that loops through all the stocks for one year and outputs the following information:
 
-  * The ticker symbol.
+  * The ticker symbol
 
-  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year
 
-  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year
 
-  * The total stock volume of the stock.
+  * The total stock volume of the stock
 
-**Note:** Conditional formatting used to highlight positive change in green and negative change in red.
+**Note:** Conditional formatting used to highlight positive change in green and negative change in red
 
 The result match the following image:
 
