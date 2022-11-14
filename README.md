@@ -3,6 +3,7 @@
 ## Background
 
 Stock Market Analysis: Using VBA scripting to analyse generated stock market data. 
+
 ![alt=""](Images/stockmarket.jpg)
 
 ## 📁 Files
